@@ -4,7 +4,7 @@ Welcome to my collection of LeetCode solutions! This repository contains solutio
 
 ## What languages you are going to see around here:
 
-The main languages that are I am focusing at the moment is python and C: However I am also exploring databases and algos, so you can also find some SQL!
+The main languages that I am focusing at the moment is python and C. However I am also exploring databases and algos, so you can also find some SQL!
 
 ## Wanna find out how they are being used? 🛠️
 
