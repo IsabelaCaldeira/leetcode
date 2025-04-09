@@ -4,7 +4,7 @@ Welcome to my collection of LeetCode solutions! This repository contains solutio
 
 ## What languages you are going to see around here:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaCaldeira&theme=github_dark&cache_seconds&layout=compact&exclude_repo=2048,AdBlocker,AmorEVida,ChuteLibre,CodinGame,Dindin,Fluig,geduc,github-readme-stats,Gotas_de_Cafe,HandsOn3-Grupo12-LaVie,househunterbot,housing_price_monitor,IsabelaCaldeira,ISS,Mesure,minha-rua,NoteWebsite,Omma,Parrot,PassoRepasso,Plongee,ProjetNumerique,RubikCubeSolver,SelfLove,SnakeGame,Sorbonne_TME,SoundGarden,VWPTD)](https://github.com/IsabelaCaldeira/leetcode)
+The main languages that are I am focusing at the moment is python and C: However I am also exploring databases and algos, so you can also find some SQL!
 
 ## Wanna find out how they are being used? 🛠️
 
